@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+.env/
+env/
+venv/
+ENV/
+.conda/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test/coverage caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Data (demo ignore pattern for tmp outputs)
+data/tmp/
