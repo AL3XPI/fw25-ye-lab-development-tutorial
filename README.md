@@ -42,6 +42,9 @@ On macOS: `source .venv/bin/activate`
 On Windows: `.venv\Scripts\activate`
 
 You should now see (.venv) appear at the start of your terminal prompt
+When you run code within this project, make sure you activate the .venv in terminal before running any code. 
+
+When you've finished running code, simply typing and entering "deactivate" in the terminal will deactivate the virtual environment. It can be relaunched using the same activate command above.
 
 
 #### Step 5: Install dependencies
