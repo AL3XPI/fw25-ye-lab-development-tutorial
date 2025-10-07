@@ -29,3 +29,6 @@ htmlcov/
 
 # Data (demo ignore pattern for tmp outputs)
 data/tmp/
+
+# Bobby's personal demo submission
+submissions/btmlnsn/
